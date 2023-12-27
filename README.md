@@ -1,4 +1,4 @@
-# Material-Map-Ge
+# Material-Map-Gen
 
 Easily create AI generated Normal maps, Displacement maps, and Roughness maps.
 
